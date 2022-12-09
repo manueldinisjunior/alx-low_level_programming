@@ -1,24 +1,22 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 /**
- *  * main - Entry block
- *   * Description: lowercase without q and e
- *    * Return: 0
- *     */
+* main - Lanzador.
+*
+* Return: Always 0.
+*/
+
 int main(void)
 {
-		char c = 'a';
+	char a = 'a';
 
-			while (c <= 'z')
-					{
-								if (c != 'q' && c != 'e')
-											{
-															putchar(c);
-																	}
-										c++;
-											}
-
-				putchar('\n');
-					return (0);
-
+	for (a = 'a'; a <= 'z'; a++)
+	{
+		if ((a != 'e') && (a != 'q'))
+		{
+			putchar(a);
+		}
+	}
+	putchar('\n');
+	return (0);
 }
