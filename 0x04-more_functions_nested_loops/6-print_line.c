@@ -1,21 +1,18 @@
 #include "main.h"
 
 /**
- * print_line - check for a digit
- * @n : number of _ to be printed
- * Return:void
+ * print_line - prints line
+ * @n: param
  */
 
 void print_line(int n)
 {
+	int i = 1;
 
-	int i = 0;
-
-	while (i < n && n > 0)
+	while (i <= n)
 	{
-		_putchar('_');
+		_putchar(95);
 		i++;
 	}
 	_putchar('\n');
-
 }
