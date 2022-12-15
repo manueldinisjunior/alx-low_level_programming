@@ -1,12 +1,28 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * more_numbers - prints more numbers
  */
-int main(void)
+
+void more_numbers(void)
 {
-    more_numbers();
-    return (0);
+	int i, j;
+
+	i = 0;
+
+	while (i < 10)
+	{
+		for (j = 0; j < 15; j++)
+		{
+			if (j >= 10)
+			{
+				_putchar((j / 10) + 48);
+			}
+			_putchar((j % 10) + 48);
+		}
+
+		_putchar('\n');
+
+		i++;
+	}
 }
