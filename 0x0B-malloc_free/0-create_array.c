@@ -1,28 +1,28 @@
-#include "main.h"
 #include <stdlib.h>
 
 /**
- * create_array - crates and array
- * @size: size of array
- * @c: character
- * Return: Null or array
+ * create_array - create an array of chart and initialize
+ * it with a specificc char.
+ * @size: array size
+ * @c: char to initialize arrray with
+ * Return:NULL if 0
  */
+
 char *create_array(unsigned int size, char c)
 {
-	char *p;
 	unsigned int i;
+	char *a;
 
-	if (size > 0)
-	{
-		p = malloc(sizeof(char) * size);
-		if (p == NULL)
-			return (NULL);
-	}
-	else
-	{
+	if (size == 0)
 		return (NULL);
-	}
+
+	a = malloc(size * sizeof(char));
+
+	if (a == NULL)
+		return (NULL);
+
 	for (i = 0; i < size; i++)
-		p[i] = c;
-	return (p);
+		a[i] = c;
+
+	return (a);
 }
