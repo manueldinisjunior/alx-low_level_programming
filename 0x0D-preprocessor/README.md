@@ -1,1 +1,1 @@
-The first read me terminal!
+The first read me terminal! This is fun
