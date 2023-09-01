@@ -1,3 +1,32 @@
+# Welcome to My ALX System Engineering Dev-Ops Repository
+
+![alxx](https://user-images.githubusercontent.com/110563322/185378889-8d6595c4-b441-4a6d-8700-4c0043886cdf.jpg)
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/manueldinisjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Manuel Dinis Júnior" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manuel-dinis-junior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agboola-olawale-damilola-7b2132246" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21437069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19747131" height="30" width="40" /></a>
+<a href="https://instagram.com/manueldinisjunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Manuel Dinis Júnior" height="30" width="40" /></a>
+
+
+## Author:
+* **Manuel Dinis Júnior** <[Manuel Dinis Júnior](https://github.com/manueldinisjunior)>
+
+## Acknowledgements :pray:
+
+All work contained in this project was completed as part of the curriculum for ALX Africa SE. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [ALX AFRICA](https://www.alxafrica.com//).
+
+
+<p align="center">
+  <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+    alt="ALX Africa Logo"
+  >
+  </p>
+
+
 ![c main2](https://user-images.githubusercontent.com/110563322/190150373-b768ab2b-c4f7-470b-b95b-510fd9ee186b.jpg)
 
 *C programming* is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. 
